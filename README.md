@@ -1,10 +1,6 @@
-![alt text](/public/Thumbnail.png)
 
-https://www.youtube.com/watch?v=EuOke4wPCXg
 
 ## Overview
-
-Hi 🤙 In this 8 hour video you'll learn how to build a SaaS application for automatically creating POV-style YouTube thumbnails. You'll be able to build along with me from project setup to Vercel deployment.
 
 Features:
 🤖 AI Background Removal
